@@ -9,25 +9,11 @@ const Home = () => {
         <div className='titulo-carreras-wrapper'>
             <h1>Accedé a tu plan de estudios</h1>
             <div className='carreras-wrapper'>
-                <a href='/tecnologia-digital'>
+                <a href='/diseño'>
                     <CourseNode data={{
-                        label: "Licenciatura en Tecnología Digital",
-                        foreground: "#000",
-                        background: "#D9B600",
-                    }
-                } /></a>
-                <a href='/ciencias-del-comportamiento'>
-                    <CourseNode data={{
-                        label: "Licenciatura en Ciencias del Comportamiento",
-                        foreground: "#FFF",
-                        background: "#037B1E",
-                    }
-                } /></a>
-                <a href='/administracion-de-empresas'>
-                    <CourseNode data={{
-                        label: "Licenciatura en Administración de Empresas",
-                        foreground: "#FFF",
-                        background: "#8B1A1A",
+                        label: "Licenciatura en Diseño",
+                        foreground: "#fff",
+                        background: "#7B035A",
                     }
                 } /></a>
             </div>
