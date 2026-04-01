@@ -443,7 +443,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#504F51',
+        background: '#8B1A1A',
         done: false,
         label: (
             <>Materia Optativa I</>
@@ -511,7 +511,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#504F51',
+        background: '#8B1A1A',
         done: false,
         label: (
             <>Materia Optativa II</>
@@ -579,7 +579,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#504F51',
+        background: '#8B1A1A',
         done: false,
         label: (
             <>Materia Optativa III</>
@@ -647,7 +647,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#504F51',
+        background: '#8B1A1A',
         done: false,
         label: (
             <>Materia Optativa IV</>
