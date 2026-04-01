@@ -19,7 +19,7 @@ function App() {
             initialEdges={disEdges}
             initialNodes={disNodes}
             years={disYears}
-            url={"https://www.utdt.edu/ver_contenido.php?id_contenido=24484&id_item_menu=40415"}
+            url={"https://udesa.edu.ar/diseno?utm_source=google&utm_medium=dise%C3%B1o%20udesa&utm_campaign=GSGD0_LDK_UDESA_AR_SC_PROD_X_DISE%C3%91O_LEAD_GRADO&utm_content=GSGD0_Brand&keyword=dise%C3%B1o%20udesa&device=c&accountid=6124370329&gad_source=1&gad_campaignid=1465565459&gbraid=0AAAAADP4wlOQ3NdI6zr2mvXEfApyyRTSm&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHEVIZJTjkdyjeR0UEMz-rigColuAEHGHIfXD_Wt2vfxlFvxfm8ef6BoCD5UQAvD_BwE"}
         />} />
       </Routes>
     </div>
