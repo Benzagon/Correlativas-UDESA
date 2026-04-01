@@ -201,7 +201,7 @@ export const nodes = [{
     type: 'course',
     targetPosition: 'right',
     data: {
-        year: 'a2',
+        year: 'a1',
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
@@ -337,7 +337,7 @@ export const nodes = [{
     type: 'course',
     targetPosition: 'right',
     data: {
-        year: 'a3',
+        year: 'a2',
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
@@ -354,7 +354,7 @@ export const nodes = [{
     type: 'course',
     targetPosition: 'right',
     data: {
-        year: 'a3',
+        year: 'a2',
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
@@ -371,7 +371,7 @@ export const nodes = [{
     type: 'course',
     targetPosition: 'right',
     data: {
-        year: 'a3',
+        year: 'a2',
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
