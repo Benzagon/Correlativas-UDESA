@@ -86,13 +86,13 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#0D037B',
+        background: '#504F51',
         done: true,
         label: (
             <>Introducción a los métodos cuantitativos</>
         ),
     },
-    position: { x: 0, y: 100 },
+    position: { x: 0, y: 200 },
 },
 {
     id: '4',
@@ -103,13 +103,13 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#C2187A',
+        background: '#037B1E',
         done: true,
         label: (
             <>Iteración</>
         ),
     },
-    position: { x: 0, y: 200 },
+    position: { x: 0, y: 100 },
 },
 {
     id: '5',
@@ -123,7 +123,7 @@ export const nodes = [{
         background: '#037B1E',
         done: true,
         label: (
-            <>Seminario profundización tecnológica</>
+            <>Seminario profundización tecnológica I</>
         ),
     },
     position: { x: 0, y: 500 },
@@ -137,7 +137,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#B64A0D',
+        background: '#504F51',
         done: true,
         label: (
             <>Economía I</>
@@ -171,7 +171,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#B64A0D',
+        background: '#504F51',
         done: true,
         label: (
             <>Fundamentos de Administración</>
@@ -188,7 +188,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#C2187A',
+        background: '#037B1E',
         done: true,
         label: (
             <>Interacción</>
@@ -208,7 +208,7 @@ export const nodes = [{
         background: '#037B1E',
         done: true,
         label: (
-            <>Seminario profundización tecnológica</>
+            <>Seminario profundización tecnológica II</>
         ),
     },
     position: { x: 200, y: 500 },
@@ -238,8 +238,8 @@ export const nodes = [{
         year: 'a2',
         hasRight: false,
         hasLeft: false,
-        foreground: '#000',
-        background: '#D9B600',
+        foreground: '#fff',
+        background: '#504F51',
         done: true,
         label: (
             <>Escritura y Oratoria</>
@@ -256,7 +256,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#C2187A',
+        background: '#037B1E',
         done: false,
         label: (
             <>Pensamiento Proyectual</>
@@ -293,7 +293,7 @@ export const nodes = [{
         background: '#037B1E',
         done: false,
         label: (
-            <>Seminario profundización tecnológica</>
+            <>Seminario profundización tecnológica III</>
         ),
     },
     position: { x: 400, y: 500 },
@@ -307,7 +307,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#7B035A',
+        background: '#037B1E',
         done: false,
         label: (
             <>Prospectiva</>
@@ -323,8 +323,8 @@ export const nodes = [{
         year: 'a2',
         hasRight: false,
         hasLeft: false,
-        foreground: '#000',
-        background: '#D9B600',
+        foreground: '#fff',
+        background: '#504F51',
         done: false,
         label: (
             <>Teoría Sociológica Contemporánea</>
@@ -341,7 +341,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#037B1E',
+        background: '#504F51',
         done: false,
         label: (
             <>Introducción a la Psicología</>
@@ -378,7 +378,7 @@ export const nodes = [{
         background: '#037B1E',
         done: false,
         label: (
-            <>Seminario profundización tecnológica</>
+            <>Seminario profundización tecnológica IV</>
         ),
     },
     position: { x: 600, y: 500 },
@@ -392,13 +392,13 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#B64A0D',
+        background: '#037B1E',
         done: false,
         label: (
             <>Mercado</>
         ),
     },
-    position: { x: 800, y: 300 },
+    position: { x: 800, y: 100 },
 },
 {
     id: '22',
@@ -409,7 +409,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#C2187A',
+        background: '#B64A0D',
         done: false,
         label: (
             <>Diseño de Información</>
@@ -426,13 +426,13 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#C2187A',
+        background: '#B64A0D',
         done: false,
         label: (
             <>Etnografía y Diseño</>
         ),
     },
-    position: { x: 800, y: 100 },
+    position: { x: 800, y: 300 },
 },
 {
     id: '24',
@@ -477,7 +477,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#7B035A',
+        background: '#B64A0D',
         done: false,
         label: (
             <>Escenarios Futuros</>
@@ -494,7 +494,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#7B035A',
+        background: '#B64A0D',
         done: false,
         label: (
             <>Estudios de Tendencias</>
@@ -528,7 +528,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#7B035A',
+        background: '#7A2F08',
         done: false,
         label: (
             <>Portafolio</>
@@ -545,7 +545,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#037B1E',
+        background: '#7A2F08',
         done: false,
         label: (
             <>Usabilidad y Factores Humanos</>
@@ -562,7 +562,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#B64A0D',
+        background: '#7A2F08',
         done: false,
         label: (
             <>Sistema Industrial y Modelos de Negocio</>
@@ -596,7 +596,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#B64A0D',
+        background: '#7A2F08',
         done: false,
         label: (
             <>Entornos Complejos</>
@@ -613,7 +613,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#0D037B',
+        background: '#7A2F08',
         done: false,
         label: (
             <>Métodos de Diagnóstico</>
@@ -630,7 +630,7 @@ export const nodes = [{
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
-        background: '#7B035A',
+        background: '#7A2F08',
         done: false,
         label: (
             <>Taller Trabajo de Graduación</>
