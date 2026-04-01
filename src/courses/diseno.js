@@ -490,7 +490,7 @@ export const nodes = [{
     type: 'course',
     targetPosition: 'right',
     data: {
-        year: 'a4',
+        year: 'a3',
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
@@ -507,7 +507,7 @@ export const nodes = [{
     type: 'course',
     targetPosition: 'right',
     data: {
-        year: 'a4',
+        year: 'a3',
         hasRight: false,
         hasLeft: false,
         foreground: '#fff',
